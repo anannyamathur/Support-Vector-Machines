@@ -1,7 +1,7 @@
 # Support-Vector-Machines
  Using support vector machines (SVMs) to build a spam classifier
 
-# MACHINE LEARNING STANFORD COURSERA COURSE BY ANDREW NG
+# MACHINE LEARNING STANFORD COURSE BY ANDREW NG (COURSERA)
 ## Support Vector Machines
 
 ### Files needed for this exercise
